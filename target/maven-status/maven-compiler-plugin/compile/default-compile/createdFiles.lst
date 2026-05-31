@@ -1,0 +1,16 @@
+teacommontea\commandgo\command\FlagParser$Parsed.class
+teacommontea\commandgo\rule\Action.class
+teacommontea\commandgo\rule\Rule.class
+teacommontea\commandgo\command\CmdRouteCommand$1.class
+teacommontea\commandgo\command\FlagParser.class
+teacommontea\commandgo\rule\RuleStore.class
+teacommontea\commandgo\command\CmdRouteCommand.class
+teacommontea\commandgo\util\FakeUnknown.class
+teacommontea\commandgo\rule\GlobPattern.class
+teacommontea\commandgo\rule\RuleStore$AddStatus.class
+teacommontea\commandgo\listener\BrigadierFilter.class
+teacommontea\commandgo\Commandgo.class
+teacommontea\commandgo\Config.class
+teacommontea\commandgo\util\LuckPermsBridge.class
+teacommontea\commandgo\rule\RuleStore$AddResult.class
+teacommontea\commandgo\listener\PreprocessFilter.class

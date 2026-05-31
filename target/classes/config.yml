@@ -1,0 +1,14 @@
+# Commandgo — runtime config.
+# Rules live in the H2 database (rules.mv.db); manage them with /cmdroute.
+
+# Log every Brigadier filter pass and preprocess match to console.
+# Useful for "why isn't my rule firing?". Off by default — it's noisy.
+debug: false
+
+# When true, server operators bypass all Commandgo rules.
+# When false, ops are subject to rules just like everyone else.
+op-bypass: true
+
+# Text shown when a command is blocked (mimics the vanilla parser error).
+# Per-rule --message overrides this. {command} is replaced with the typed command (without leading /).
+default-error-message: "&cUnknown or incomplete command. See below for error                                  &n{command}&r&c&o<--[HERE]"
