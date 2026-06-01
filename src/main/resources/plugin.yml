@@ -2,7 +2,7 @@ name: Commandgo
 version: 1.7.2
 main: teacommontea.commandgo.Commandgo
 api-version: '1.21'
-author: AetherDev
+author: teacommontea
 description: WorldGuard-style command visibility/execution rules.
 softdepend: [LuckPerms]
 commands:
